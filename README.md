@@ -1,6 +1,7 @@
 # adoptrack-ios
 Phase 1 hackapet iOS Application
 
+# Configure your environment
 ## First of all, you need to have a mac device with the following configurations:
 
 - Git
